@@ -1,1 +1,1 @@
-# azure_stuff2
+# Prediction of epidemic disease dynamics using Machine learning model
